@@ -1,5 +1,12 @@
 # @mastra/longmemeval
 
+## 1.0.29-alpha.2
+
+### Patch Changes
+
+- Updated dependencies [[`a179a1d`](https://github.com/mastra-ai/mastra/commit/a179a1dbb3c197cda47a936710e78d9995c45f58)]:
+  - @mastra/core@1.25.1-alpha.2
+
 ## 1.0.29-alpha.1
 
 ### Patch Changes
